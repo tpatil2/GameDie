@@ -5,8 +5,8 @@ class GameDie
 {
   public:
    GameDie();
-   void roll();//for numbers between 4 tp 20 ie n
-   void roll2();//for numbers between 1 to n(4-20)
+   void roll();
+   void roll2();
 };
 
 #include "GameDie.cpp"
